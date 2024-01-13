@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paula Lopes, Doctor in Computer Science from UFMG (Federal University of Minas Gerais)
-- 🙋‍♀️ I’m interested a full-time job or freelance work in data science or backend software development.
+- :boom: I just got approved to work at SERPRO, a Brazilian Government Software House. 
 - 👀You can see my resume in my [LinkedIn Profile](https://www.linkedin.com/in/paula-lopes-dev/))
 - 🌱 I’m currently learning Artificial Intelligence.
 - 👑 I've got experience in:  Matlab(Video processing and Machine Learning - 4 years), Java (Client-Server tool, 2 years), C/Motif (UI - 2 years), Fortran77 (Scientific Computing - 3 years)
